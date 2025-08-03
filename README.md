@@ -15,7 +15,7 @@
 
 <p align="center"> ◇:*:◆:*:◇:*:◆
 <p align="center"> "Hello there! It seems like you have stepped into my account." 
-<p align="center">"My name is Luci or Mari and allow me to introduce myself."
+<p align="center">"My name is Luci and allow me to introduce myself."
 <p align="center">ㅡI'm an artist and a writer I tend to procastinate alot but I try my best to make some content. I'm both a TWST EN and JP player.
   
 <p align="center">As you guys noticed, Trey Clover is my favorite character in Heartslabyul and I'm a yumeshipper to him and I am heavily and strictly a non-sharing yumejoshi to him so it makes me very uncomfortable when I see other canon x oc / yumeshippers with him also I feel very uncomfy if you guys whisper a love confession/letter to my Trey skin when I'm using it so please I kindly ask you to respect my boundaries that's all I want. We can talk or interact normally if I do interact with you but please don't talk about how much you love Trey to me and PLEASE PLEASE DO NOT TALK ABOUT YOUR OC X CANON/YUMESHIP OF HIM TO ME...
@@ -73,7 +73,7 @@
 ![5104](https://github.com/user-attachments/assets/ce2c9255-e367-4f12-ac1c-0200413df5c9)
 
 <p align="center">$${\color{cyan}Have\space \color{cyan}A\space\color{cyan}Good\space\color{cyan}Day!}$$
-<p align="center">୨୧ Mari, signing out~
+<p align="center">୨୧ Luci, signing out~
 <div id="badges">
   <a href="https://cloverrotto.carrd.co">
     <img src="https://img.shields.io/badge/Carrd-darkgreen?style=for-the-badge&logo=carrd&logoColor=white" alt="Carrd Badge"/>
