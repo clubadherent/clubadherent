@@ -73,4 +73,14 @@
 
 <p align="center">$${\color{cyan}Have\space \color{cyan}A\space\color{cyan}Good\space\color{cyan}Day!}$$
 <p align="center">୨୧ Mari, signing out~
- 
+<div id="badges">
+  <a href="https://cloverrotto.carrd.co">
+    <img src="https://img.shields.io/badge/Carrd-darkgreen?style=for-the-badge&logo=carrd&logoColor=white" alt="Carrd Badge"/>
+  </a>
+  <a href="https://scarletclover.straw.page">
+    <img src="https://img.shields.io/badge/Strawpage-darkred?style=for-the-badge&logo=strawpage&logoColor=white" alt="Strawpage Badge"/>
+  </a>
+  <a href="https://x.com/cloverrotto?t=D4OYZIWLSHPKQDsZPQzfiw&s=09">
+    <img src="https://img.shields.io/badge/Twitter-darkblue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
